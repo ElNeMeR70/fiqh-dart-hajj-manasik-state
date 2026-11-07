@@ -1,0 +1,5 @@
+name: fiqh_dart_hajj_manasik_state
+description: "Hajj & Umrah Manasik State-Machine (Tamattu, Qiran, Ifrad)"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
